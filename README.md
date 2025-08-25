@@ -1,11 +1,23 @@
-## Olá, bem vindo👋
+## Olá, seja bem-vindo! 👋
 
-**TARLIOMAR/TARLIOMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Tarliomar, e este é o meu perfil no GitHub! 
 
-Aqui estão algumas caracteristicas sobre mim.
+Aqui você vai encontrar projetos meus e iniciativas que estou desenvolvendo enquanto faço a **transição de carreira para programação**.
 
- 🔭 Estou trabalhando no momento como Correspondete Bancario/Gerente
-- 🌱 Estou aprendendo no momento java. 
-- 💬 Estou em processo de transição de carreira. 
-- 📫 Como entrar em contato comigo email: tarliomar.pro@gmail.com
-- ⚡ Curiosidade: Gosto de desafios. 
+# Sobre mim
+- 🔭 Atualmente trabalhando como **Correspondente Bancário / Gerente**  
+- 🌱 Aprendendo **Java** e desenvolvimento de software  
+- 💬 Em transição de carreira, buscando desafios e novas oportunidades  
+- 📫 Contato: [tarliomar.pro@gmail.com](mailto:tarliomar.pro@gmail.com)  
+- ⚡ Curiosidade: Resolver problemas complexos e encarar desafios me faz viver  
+
+#Habilidades & Aprendizado
+- 💻 Java (em estudo)  
+- 🌐 HTML, CSS, Bootstrap (projetos web)  
+- 🔧 Versionamento com Git e GitHub  
+- 🧠 Curioso e focado em aprender novas tecnologias
+
+## Objetivo
+Construir projetos **práticos e escaláveis**, focando em **SaaS e aplicações web**, e documentar meu aprendizado aqui no GitHub.
+
+
