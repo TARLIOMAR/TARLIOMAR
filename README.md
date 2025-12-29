@@ -5,7 +5,8 @@ Sou Tarliomar, e este é o meu perfil no GitHub!
 Aqui você vai encontrar projetos meus e iniciativas que estou desenvolvendo enquanto faço a **transição de carreira para programação**.
 
 # Sobre mim
-- 🔭 Atualmente trabalhando como **Correspondente Bancário / Gerente**  
+- 🔭 Atualmente estou trabalhando como **Suporte / Desvolverdor em Delphi ** 
+-já trabalhei como Correspondente Bancário / Gerente para uma instituição financeira.   
 - 🌱 Aprendendo **Java** e desenvolvimento de software  
 - 💬 Em transição de carreira, buscando desafios e novas oportunidades  
 - 📫 Contato: [tarliomar.pro@gmail.com](mailto:tarliomar.pro@gmail.com)  
